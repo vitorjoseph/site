@@ -1,4 +1,4 @@
-# How to Not Get Rich: An Empirical Study of Donations in Open Source
+# Assessing the quality of GitHub copilot’s code generatio
 
 
 Yetistiren, Burak, Isik Ozsoy, and Eray Tuzun. "Assessing the quality of GitHub copilot’s code generation." Proceedings of the 18th International Conference on Predictive Models and Data Analytics in Software Engineering. 2022. Leia o artigo completo [aqui](https://dl.acm.org/doi/pdf/10.1145/3558489.3559072)
