@@ -15,8 +15,8 @@ O artigo examina a relação entre os motores de jogos e os frameworks de softwa
 * _Software Framework_ (Estrutura de Software) - É um conjunto reutilizável de bibliotecas ou classes em software que fornecem uma solução funcional para elementos de codificação de nível inferior, permitindo que os desenvolvedores se concentrem em tarefas de nível superior. [Página 3]
 * _Hollywood Principle_ (Princípio de Hollywood) - Refere-se ao conceito em frameworks onde o código do usuário é chamado pelo framework, seguindo a frase "Não nos chame, nós o chamaremos".
 * _PyDriller_ é uma estrutura em Python para analisar repositórios Git. Ele é usado para extrair informações sobre commits, alterações de código e outros aspectos do desenvolvimento de software (página 5).
-* _Community engagement_ (engajamento da comunidade) é a interação e participação da comunidade de desenvolvedores e usuários em torno de um projeto de código aberto, incluindo contribuições, discussões e feedback.
-* _Game engines ecosystem_ (ecossistema de motores de jogos) é o ambiente que abrange todos os elementos relacionados aos motores de jogos, como os próprios motores, frameworks, ferramentas e comunidades de desenvolvedores.
+* _Community engagement_ (engajamento da comunidade) é a interação e participação da comunidade de desenvolvedores e usuários em torno de um projeto de código aberto, incluindo contribuições, discussões e feedback (página 11).
+* _Internal Validity_ (Validade Interna) refere à confiabilidade das conclusões obtidas em um estudo, garantindo que as relações observadas entre as variáveis sejam genuínas e não influenciadas por fatores externos (página 11).
 
 
 ## 3. Fichamento de Citações 

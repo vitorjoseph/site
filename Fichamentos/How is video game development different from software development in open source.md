@@ -12,12 +12,12 @@ O artigo investiga as diferenças entre o desenvolvimento de jogos de vídeo e o
 ## 2. Fichamento Bibliográfico 
 
 
-* _Non-game systems_ (sistemas não relacionados a jogos) são sistemas de software que não são jogos digitais, abrangendo uma variedade de aplicativos como utilitários de sistema e suítes de escritório (página 1).
-* _Open source software_ (OSS) (software de código aberto) refere-se a software cujo código-fonte é disponibilizado publicamente e pode ser modificado e distribuído livremente (página 1).
-* _Mining Software Repositories_ (mineração de repositórios de software) é uma área de pesquisa que se concentra na análise de dados armazenados em repositórios de código-fonte para extrair informações úteis sobre o processo de desenvolvimento de software (página 2).
-* _Malfunction Handling_ (Tratamento de Malfuncionamento) é o processo de lidar com falhas em sistemas de software, incluindo categorização, identificação e correção de problemas
-* _Release planning _(planejamento de lançamento) é menos claro para jogos do que para não jogos, devido à propensão a experimentar novos recursos, o que pode ou não ser bem-sucedido
-* _Skills_ (habilidades) necessárias para o desenvolvimento de jogos diferem significativamente das requeridas para o desenvolvimento de software tradicional, exigindo mais criatividade e habilidades em diferentes recursos
+* _Open source software_ (OSS) (software de código aberto) refere-se a software cujo código-fonte é disponibilizado publicamente e pode ser modificado e distribuído livremente (página 4).
+* _Mining Software Repositories_ (mineração de repositórios de software) é uma área de pesquisa que se concentra na análise de dados armazenados em repositórios de código-fonte para extrair informações úteis sobre o processo de desenvolvimento de software (página 4).
+* _Non-game systems_ (sistemas não relacionados a jogos) são sistemas de software que não são jogos digitais, abrangendo uma variedade de aplicativos como utilitários de sistema e suítes de escritório (página 6).
+* _Malfunction Handling_ (Tratamento de Malfuncionamento) é o processo de lidar com falhas em sistemas de software, incluindo categorização, identificação e correção de problemas (página 8).
+* _Release planning _(planejamento de lançamento) é menos claro para jogos do que para não jogos, devido à propensão a experimentar novos recursos, o que pode ou não ser bem-sucedido (página 12).
+* _Skills_ (habilidades) necessárias para o desenvolvimento de jogos diferem significativamente das requeridas para o desenvolvimento de software tradicional, exigindo mais criatividade e habilidades em diferentes recursos (página 12).
 
 
 

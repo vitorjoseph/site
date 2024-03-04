@@ -53,44 +53,44 @@ Guendouz, Mohamed, Abdelmalek Amine, and Reda Mohamed Hamou. "Recommending Relev
 
 Leia o artigo completo [aqui](https://dl.acm.org/doi/abs/10.4018/IJOSSP.2015010101).
 
-## Artigo 9: Título do Artigo
+## Artigo 9: Did you miss my comment or what?" understanding toxicity in open source discussions
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut libero eu nada feugiat convallis. Integer at nulla eu elit feugiat blandit. Sed gravida metus eget felis tempus, nec varius nunc lacinia.
+Miller, Courtney, et al. "" Did you miss my comment or what?" understanding toxicity in open source discussions." Proceedings of the 44th International Conference on Software Engineering. 2022.
 
-Leia o artigo completo [aqui](link_para_o_artigo_9).
+Leia o artigo completo [aqui](https://dl.acm.org/doi/pdf/10.1145/3510003.3510111).
 
-## Artigo 10: Título do Artigo
+## Artigo 10: How gamification affects software developers: Cautionary evidence from a natural experiment on github
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut libero eu nada feugiat convallis. Integer at nulla eu elit feugiat blandit. Sed gravida metus eget felis tempus, nec varius nunc lacinia.
+Moldon, Lukas, Markus Strohmaier, and Johannes Wachs. "How gamification affects software developers: Cautionary evidence from a natural experiment on github." 2021 IEEE/ACM 43rd International Conference on Software Engineering (ICSE). IEEE, 2021.
 
-Leia o artigo completo [aqui](link_para_o_artigo_10).
+Leia o artigo completo [aqui](https://arxiv.org/pdf/2006.02371.pdf).
 
-## Artigo 11: Título do Artigo
+## Artigo 11: Github actions: Uma análise do impacto de actions de code quality e code review em repositórios open-source do github
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut libero eu nada feugiat convallis. Integer at nulla eu elit feugiat blandit. Sed gravida metus eget felis tempus, nec varius nunc lacinia.
+Starling, Paulo Henrique C., Victor Augusto d Santos, and Minas Gerais. "Github actions: Uma análise do impacto de actions de code quality e code review em repositórios open-source do github." (2022).
 
-Leia o artigo completo [aqui](link_para_o_artigo_11).
+Leia o artigo completo [aqui](http://bib.pucminas.br:8080/pergamumweb/vinculos/000020/000020b3.pdf).
 
-## Artigo 12: Título do Artigo
+## Artigo 12: Análise do impacto do uso de bots na comunicação tóxica em repositórios no Github
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut libero eu nada feugiat convallis. Integer at nulla eu elit feugiat blandit. Sed gravida metus eget felis tempus, nec varius nunc lacinia.
+Armanelli, Bruno Henrique, and Lucas de Lima Soares. "Análise do impacto do uso de bots na comunicaç ao tóxica em repositórios no Github."
 
-Leia o artigo completo [aqui](link_para_o_artigo_12).
+Leia o artigo completo [aqui](http://bib.pucminas.br:8080/pergamumweb/vinculos/000020/0000207e.pdf).
 
-## Artigo 13: Título do Artigo
+## Artigo 13: Análise da Relaçao Entre Code Smells e Métricas Qualitativas em Repositórios do GitHub de Sistemas de Direçao Autônoma
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut libero eu nada feugiat convallis. Integer at nulla eu elit feugiat blandit. Sed gravida metus eget felis tempus, nec varius nunc lacinia.
+Silva, Lorrayne Reis. "Análise da Relaçao Entre Code Smells e Métricas Qualitativas em Repositórios do GitHub de Sistemas de Direçao Autônoma."
 
-Leia o artigo completo [aqui](link_para_o_artigo_13).
+Leia o artigo completo [aqui](http://bib.pucminas.br:8080/pergamumweb/vinculos/000022/00002298.pdf).
 
-## Artigo 14: Título do Artigo
+## Artigo 14: Is this GitHub project maintained? Measuring the level of maintenance activity of open-source projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut libero eu nada feugiat convallis. Integer at nulla eu elit feugiat blandit. Sed gravida metus eget felis tempus, nec varius nunc lacinia.
+Coelho, Jailton, et al. "Is this GitHub project maintained? Measuring the level of maintenance activity of open-source projects." Information and Software Technology 122 (2020): 106274.
 
-Leia o artigo completo [aqui](link_para_o_artigo_14).
+Leia o artigo completo [aqui](https://arxiv.org/pdf/2003.04755.pdf).
 
-## Artigo 15: Título do Artigo
+## Artigo 15: What makes a code review useful to opendev developers? an empirical investigation.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut libero eu nada feugiat convallis. Integer at nulla eu elit feugiat blandit. Sed gravida metus eget felis tempus, nec varius nunc lacinia.
+Turzo, Asif Kamal, and Amiangshu Bosu. "What makes a code review useful to opendev developers? an empirical investigation." Empirical Software Engineering 29.1 (2024): 6.
 
-Leia o artigo completo [aqui](link_para_o_artigo_15).
+Leia o artigo completo [aqui](https://arxiv.org/pdf/2302.11686).
