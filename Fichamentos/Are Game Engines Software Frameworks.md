@@ -23,7 +23,7 @@ O artigo examina a relação entre os motores de jogos e os frameworks de softwa
 
 
 * _"For decades, video games have been a joyful hobby for many people around the world, making the game industry multi-billionaire, surpassing the movie and music industries combined."_
-* _"Game engines are slightly larger in terms of size and complexity and less popular and engaging than traditional frameworks." _
+* _"Game engines are slightly larger in terms of size and complexity and less popular and engaging than traditional frameworks."_
 * _"Game engine projects have shorter histories with fewer releases than frameworks."_
 * _"Engine developers consider engines different from frameworks: 59% of the respondents believe that engines follows a different process from frameworks."_
 * _"Frameworks are used by developers to ease software development and to focus on their products rather than on implementation details."_
